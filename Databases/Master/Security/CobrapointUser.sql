@@ -1,2 +1,2 @@
-﻿CREATE USER [CobrapointUser] FOR LOGIN [CobrapointUser];
+﻿CREATE USER [CobrapointUser] WITHOUT LOGIN;
 
