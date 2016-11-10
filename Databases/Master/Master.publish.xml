@@ -4,7 +4,19 @@
     <IncludeCompositeObjects>True</IncludeCompositeObjects>
     <TargetDatabaseName>MasterDB</TargetDatabaseName>
     <DeployScriptFileName>Master.sql</DeployScriptFileName>
+    <ScriptDatabaseOptions>True</ScriptDatabaseOptions>
+    <BlockOnPossibleDataLoss>True</BlockOnPossibleDataLoss>
+    <ExcludeDatabaseRoles>True</ExcludeDatabaseRoles>
+    <ExcludeLogins>True</ExcludeLogins>
+    <ExcludeRules>True</ExcludeRules>
+    <IgnoreRoleMembership>True</IgnoreRoleMembership>
+    <ExcludeServerRoles>True</ExcludeServerRoles>
+    <ExcludeServerRoleMembership>True</ExcludeServerRoleMembership>
+    <ExcludeUsers>True</ExcludeUsers>
+    <ExcludeApplicationRoles>True</ExcludeApplicationRoles>
     <ProfileVersionNumber>1</ProfileVersionNumber>
     <TargetConnectionString>Data Source=kuznetsovv7\vkuznetsov;Integrated Security=True;Pooling=False</TargetConnectionString>
+    <ExcludeCredentials>True</ExcludeCredentials>
+    <IgnorePermissions>True</IgnorePermissions>
   </PropertyGroup>
 </Project>

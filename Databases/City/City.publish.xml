@@ -15,5 +15,7 @@
     <IgnoreRoleMembership>True</IgnoreRoleMembership>
     <IgnorePermissions>True</IgnorePermissions>
     <ExcludeDatabaseRoles>True</ExcludeDatabaseRoles>
+    <ExcludeCertificates>False</ExcludeCertificates>
+    <ExcludeCredentials>True</ExcludeCredentials>
   </PropertyGroup>
 </Project>

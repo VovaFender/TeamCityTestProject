@@ -68,6 +68,7 @@
     <Build Include="Security\db_executor.sql" />
     <Build Include="Security\RoleMemberships.sql" />
     <Build Include="dbo\Stored Procedures\cspInsertConfiguration.sql" />
+    <Build Include="dbo\Stored Procedures\cspGetConfiguration.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Master.publish.xml" />
