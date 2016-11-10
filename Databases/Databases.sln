@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "City", "City\City.sqlproj", "{43994BD6-D3F8-44A2-80AB-7AD6ED9883E4}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Master", "Master\Master.sqlproj", "{A5B77A6C-A182-4428-AE6D-B01A90D2CC19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,12 @@ Global
 		{43994BD6-D3F8-44A2-80AB-7AD6ED9883E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43994BD6-D3F8-44A2-80AB-7AD6ED9883E4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{43994BD6-D3F8-44A2-80AB-7AD6ED9883E4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A5B77A6C-A182-4428-AE6D-B01A90D2CC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B77A6C-A182-4428-AE6D-B01A90D2CC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B77A6C-A182-4428-AE6D-B01A90D2CC19}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A5B77A6C-A182-4428-AE6D-B01A90D2CC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B77A6C-A182-4428-AE6D-B01A90D2CC19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5B77A6C-A182-4428-AE6D-B01A90D2CC19}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
