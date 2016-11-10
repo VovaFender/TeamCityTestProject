@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Databases", "Databases\Databases.csproj", "{27020870-4F56-40C7-A8CD-C361812CCDEF}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "City", "City\City.sqlproj", "{43994BD6-D3F8-44A2-80AB-7AD6ED9883E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{27020870-4F56-40C7-A8CD-C361812CCDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{27020870-4F56-40C7-A8CD-C361812CCDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{27020870-4F56-40C7-A8CD-C361812CCDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{27020870-4F56-40C7-A8CD-C361812CCDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43994BD6-D3F8-44A2-80AB-7AD6ED9883E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43994BD6-D3F8-44A2-80AB-7AD6ED9883E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43994BD6-D3F8-44A2-80AB-7AD6ED9883E4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{43994BD6-D3F8-44A2-80AB-7AD6ED9883E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43994BD6-D3F8-44A2-80AB-7AD6ED9883E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43994BD6-D3F8-44A2-80AB-7AD6ED9883E4}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
