@@ -17,5 +17,7 @@
     <ExcludeDatabaseRoles>True</ExcludeDatabaseRoles>
     <ExcludeCertificates>False</ExcludeCertificates>
     <ExcludeCredentials>True</ExcludeCredentials>
+    <DropObjectsNotInSource>False</DropObjectsNotInSource>
+    <BackupDatabaseBeforeChanges>True</BackupDatabaseBeforeChanges>
   </PropertyGroup>
 </Project>
